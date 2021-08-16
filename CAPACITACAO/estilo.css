@@ -1,0 +1,115 @@
+/*----------LAYOUTS------------------*/
+
+body{
+    background: #ffff;
+}
+
+#container {
+    width: 100%;
+    color: #fff;
+    width: 100%;
+    min-width: 1000px;
+}
+
+#historia {
+    width: 100%;
+    margin: 0 auto;
+    color: #3E194D;
+    font-family: "Montserrat";
+    height: 814px;
+    text-align: center;
+}
+
+#historia h1 {
+    font-size: 48px;
+    padding-top: 50px;
+}
+
+#hist p {
+    color: #848484;
+    font-size: 17px;
+    font-family: 'Segoe UI';
+    position: relative;
+    padding-inline: 350px;
+}
+#historia p {
+    font-family: 'Segoe UI';
+    font-size: 17px;
+    color: #848484;
+}
+
+
+#missao i {
+    padding-top: 200px;
+    margin-right: 25px;
+    margin-left: 325px;
+    float: left;
+    font-size: 48px;
+    color: #A7FBD3
+}
+
+#visao i {
+    padding-top: 200px;
+    float: left;
+    margin-right: 25px;
+    font-size: 48px;
+    color: #A7FBD3
+}
+
+#valores i {
+    padding-top: 200px;
+    float: left;
+    font-size: 48px;
+    color: #A7FBD3
+}
+
+#missao h3 {
+    position: relative;
+    right: 85px;
+    padding-top: 250px;
+    float: left;
+}
+
+#visao h3 {
+    position: relative;
+    right: 85px;
+    padding-top: 250px;
+    float: left;
+}
+
+#valores h3 {
+    position: relative;
+    right: 75px;
+    padding-top: 250px;
+    float:left;
+}
+
+#missao p {
+    position: relative;
+    right: 250px;
+    padding-top: 300px;
+    float: left;
+    width: 250px;
+    height: 20px;
+    font-size: 17px;
+}
+
+#visao p {
+    position: relative;
+    right: 225px;
+    padding-top: 300px;
+    float: left;
+    width: 250px;
+    height: 20px;
+    font-size: 17px;
+}
+#valores p {
+    position: relative;
+    top: -10px;
+    right: 100px;
+    float: left;
+    width: 250px;
+    height: 20px;
+    font-size: 17px;
+}
+
