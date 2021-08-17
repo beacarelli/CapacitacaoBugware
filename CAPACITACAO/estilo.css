@@ -148,7 +148,47 @@ body{
     top: 350px;
     z-index: 210;
     box-shadow:5px 5px 5px black;
-
-
 }
 
+#mej {
+    width: 100%;
+    height: 500px;
+    background: #eeeded;
+    position: relative;
+    top: -30px;
+}
+#mej h1 {
+    color:#3E194D ;
+    font-family:"Montserrat" ;
+    width: 20px;
+    padding-top: 100px;
+    margin-left: 400px;
+}
+#mej p {
+    color: #848484;
+    font-size: 17px;
+    width: 350px;
+    margin-left: 400px;
+}
+
+#mej img {
+    margin-left: 800px;
+    position:relative ;
+    bottom: 25s0px;
+}
+
+#mej button{
+    width: 175px;
+    height: 50px;
+    background:#3E194D ;
+    border: none;
+    color:#A7FBD3 ;
+    border-radius: 5px;
+    font-family:"Segoe UI";
+    font-size: 15px;
+    margin-left: 400px ;
+}
+#botao{
+    position: relative;
+    top: -300px;
+}
